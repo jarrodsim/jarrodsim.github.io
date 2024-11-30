@@ -101,7 +101,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://pbs.twimg.com/profile_images/1671337165857406977/fPF4_YYa_400x400.jpg
+avatar: https://static-cdn.jtvnw.net/jtv_user_pictures/3451646f-9c07-4c14-abb3-b9cce963f482-profile_image-300x300.jpeg
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
