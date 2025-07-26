@@ -1,6 +1,6 @@
-
 ---
 layout: "post"
+title: "Hogan"
 date: 2025-07-25
 ---
 Offering some context for the mixed feeling about Hulk Hogan's passing from a black American adult wrestling fan.The one thing that no one can argue is Hulkamania's legacy in pro-wrestling/sports entertainment and impact in pop culture.  His icon status status is secured. But when we talk about legacy, icons like Hogan don't get to choose what is and what isn't apart of their legacy in the court of public opinion. 
